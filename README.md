@@ -1,4 +1,3 @@
- [![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
 <h1 align="center">Hi 👋, I'm FATIH OZTURK</h1>
 <h3 align="center">A passionate frontend developer from Trabzon</h3>
 
