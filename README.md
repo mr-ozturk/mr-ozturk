@@ -1,4 +1,5 @@
-<h1 align="center">Hello,I'm FATIH OZTURK</h1>
+<h1 align="center">Здравствуйте Фатих Озтюрк </h1>
+<h1 align="center">FATIH OZTURK</h1>
 <h3 align="center">A passionate frontend developer from Trabzon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-ozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mr-ozturk" /> </p>
