@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **I'm building an e-commerce site.**
 
-- 🌱 I’m currently learning **Programming Languages, Frontend Development, Mobile App Development,**
+- 🌱 I’m currently learning **React and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mr-ozturk?tab=repositories](https://github.com/mr-ozturk?tab=repositories)
 
