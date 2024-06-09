@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте Фатих Озтюрк </h1>
+<h1 align="center">Здравствуйте я Фатих Озтюрк </h1>
 <h1 align="center">FATIH OZTURK</h1>
 <h3 align="center">A passionate frontend developer from Trabzon</h3>
 
